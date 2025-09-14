@@ -16,7 +16,7 @@ If you're using a Windows computer, follow [these instructions](https://forge.ru
 Rust does have have a recommended IDE, although, some may not be suited for Rust development. Using Rust requires frequent terminal access, so an IDE with access to multiple terminals is crucial. Some choose to skip the IDE entirely, opting for a command line-based text editor like Vim.<br><br>
 If you want the features of a full IDE, use whatever works best for you. I'll be using a combination of VSCode, which has a few Rust extensions, and Nano, a CLI text editor on Linux. 
 ### How to Run "Hello World!"
-To run a basic Hello World program, start by creating a `main.rs` file to hold the program. Type the following code:
+To run a basic Hello World program, start by creating a `hello_world.rs` file to hold the program. Type the following code:
 ```
 fn main() {
     println!("Hello, world!");
@@ -25,8 +25,8 @@ fn main() {
 Save the file and open a terminal in your current directory.
 Then, run the following commands:
 ```
-rustc main.rs # Compile the program
-./main # Run the compiled code
+rustc hello_world.rs # Compile the program
+./hello_world # Run the compiled code
 ```
 ### How to Write Comments
 Add comments to your program using either `//` or `/* */`
