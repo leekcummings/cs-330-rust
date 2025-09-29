@@ -19,9 +19,9 @@ fn main() {
     let is_python: bool = false;
 
     // Array
-    let primes: [i32; 4] = [2, 3, 5, 7]
+    let primes: [i32; 4] = [2, 3, 5, 7];
 
     // Hashmap
     let mut map = HashMap::new(); // Create empty HashMap
-    map.insert("first_name", "last_name") // Add key: value pair (firstname: last_name)
+    map.insert("first_name", "last_name"); // Add key: value pair (firstname: last_name)
 }

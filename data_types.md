@@ -1,6 +1,6 @@
 # Data Types
-Rust is a statically typed and explicitly language. Although the compiler can infer what type an unlabeled variable is, it's best to always label your variables to avoid future confusion.<br>
-I actually couldn't find any information on if Rust is strongly typed or weakly typed.
+Rust is a statically typed and explicitly language. Although the compiler can infer what type an unlabeled variable is, it's best to always label your variables to avoid future confusion. I actually couldn't find any information on if Rust is strongly typed or weakly typed.<br>
+Download the [data_types.rs](exercises/1_data_types.rs) exercise or create your own code based on the tutorial below. 
 ## Keywords
 Rust has numerous strict keywords that cannot be used to name variables or attributes. Included in this list are `if`, `loop`, `self`, and `true`, which are all words used in frequently in programming. According to the [Rust Programming Language Book](https://doc.rust-lang.org/book/), there are 52 total reserved words.
 ## Scalar types
