@@ -25,8 +25,6 @@ let div = 10 / 3; // Will return 3
 let div2 = 10.0 / 3.0; // Will return 3.33...
 let rem = 10 / 3; // Will return 1
 ```
-### Booleans
-Bools are either `true` or `false` in Rust.
 ### Characters
 Chars represent a single unicode character. You can use a letter from a language's alphabet or even emojis when creating a `char` variable.
 ```
