@@ -1,6 +1,14 @@
 # cs-330-rust
 > Welcome to Rust 🦀 This repo was created for CS 330: Programming Languages
 
+<div align="center">
+    <a href="README.md"><b>History and Installation</b></a> |
+    <a href="data_types.md">Data Types</a> |
+    <a href="loops_conditionals.md">Loops and Conditionals</a> |
+    <a href="functions.md">Functions</a> |
+    <a href="classes.md">Classes (Structs)</a>
+</div>
+
 ## History of Rust
 Rust was created in 2006 by Mozilla software developer Graydon Hoare. It focuses on reducing memory safety-related bugs and crashes in C and C++. After being sponsored by Mozilla Research in 2009, the 1.0 version of Rust was officially released in May 2015.[^1]
 Rust is a general-purpose language that can be used to create a wide range of tools and software. Because of Rust's memory safety features and fast performance, the language is often used to build operating systems, web applications, and command-line tools.[^2]
