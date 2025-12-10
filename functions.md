@@ -10,6 +10,8 @@
 </div>
 
 ## Declaring Functions
+> View this section's exercise at [functions.rs](exercises/30_functions.rs)
+
 To create a new function in Rust, simply write `fn`, followed by the name of the function. Add open and closed parentheses and finish the declaration with curly brackets. Functions can accept any number of parameters with multiple different types. Each parameter should be listed in order with its variable type.
 ```
 // No params
