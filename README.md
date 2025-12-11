@@ -31,7 +31,7 @@ Rust does not have a recommended IDE, although some IDEs may not be suited for R
 I'll be using a combination of VSCode, which has a few Rust extensions, and Nano, a CLI text editor on Debian.
 
 ## How to Run "Hello World!"
-> View this section's exercise at [hello_world.rs](exercises/00_hello_world.rs)
+> View this section's exercise at [hello_world.rs](exercises/0_hello_world.rs)
 
 To run a basic Hello World program, start by creating a `hello_world.rs` file to hold the program. Add this `main()` function containing a `println!` macro to the document.
 ```
