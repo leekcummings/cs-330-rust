@@ -3,10 +3,10 @@
 
 <div align="center">
     <a href="README.md"><b>History and Installation</b></a> |
-    <a href="data_types.md">Data Types</a> |
-    <a href="loops_conditionals.md">Loops and Conditionals</a> |
-    <a href="functions.md">Functions</a> |
-    <a href="classes.md">Classes (Structs)</a>
+    <a href="1_data_types.md">Data Types</a> |
+    <a href="2_loops_conditionals.md">Loops and Conditionals</a> |
+    <a href="3_functions.md">Functions</a> |
+    <a href="4_classes.md">Classes (Structs)</a>
 </div>
 
 ## History of Rust

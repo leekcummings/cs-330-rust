@@ -3,10 +3,10 @@
 
 <div align="center">
     <a href="README.md">History and Installation</a> |
-    <a href="data_types.md">Data Types</a> |
-    <a href="loops_conditionals.md">Loops and Conditionals</a> |
-    <a href="functions.md"><b>Functions</b></a> |
-    <a href="classes.md">Classes (Structs)</a>
+    <a href="1_data_types.md">Data Types</a> |
+    <a href="2_loops_conditionals.md">Loops and Conditionals</a> |
+    <a href="3_functions.md"><b>Functions</b></a> |
+    <a href="4_classes.md">Classes (Structs)</a>
 </div>
 
 ## Declaring Functions
