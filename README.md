@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Find my semester-long project created with Rust [here](https://github.com/leekcummings/cli-cal)!
+
 # CS 330 Rust Tutorial
 > Welcome to Rust! 🦀
 
